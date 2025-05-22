@@ -84,9 +84,9 @@ WeCare would be available both as a product and service for the customers. The c
 
 </pre>
 ### Contributors
+- Himanshu
 - Sawan
-- Arunima
-- Divyum
+- Krishan
 
 Built with ❤️ by Team ENIGMA
 
